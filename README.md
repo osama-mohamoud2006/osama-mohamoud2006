@@ -27,12 +27,11 @@
 
 
 ---
-<div align="center">
+<p style="text-align: center;">
   <a href="https://postimg.cc/XZW2nGqD" target="_blank">
     <img src="https://img.shields.io/badge/My_Roadmap-Open-blue?style=for-the-badge&logo=codeforces&logoColor=white" alt="My Roadmap Badge">
   </a>
-</div>
-
+</p>
 
 <!-- Languages and Tools -->
 ## 🛠️ Languages & Tools
@@ -66,7 +65,7 @@
   <a href="https://www.instagram.com/osama.mohamoud2006" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/osama-mohamoud-485677322/" target="_blank">
+  <a href="https://www.linkedin.com/in/osama-mohamoud-485677322" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 <a href="https://t.me/what_do_you_need_bro" target="_blank">
