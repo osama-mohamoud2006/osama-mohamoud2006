@@ -27,11 +27,12 @@
 
 
 ---
-<p style="text-align: center;">
+<div align="center">
   <a href="https://postimg.cc/XZW2nGqD" target="_blank">
     <img src="https://img.shields.io/badge/My_Roadmap-Open-blue?style=for-the-badge&logo=codeforces&logoColor=white" alt="My Roadmap Badge">
   </a>
-</p>
+</div>
+
 
 <!-- Languages and Tools -->
 ## 🛠️ Languages & Tools
@@ -60,19 +61,12 @@
 
 
 <!-- Contact -->
-## 📬 Connect with Me
-<p align="center">
-  <a href="https://www.instagram.com/osama.mohamoud2006" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/osama-mohamoud-485677322" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
-<a href="https://t.me/what_do_you_need_bro" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-</a>
+## 📬 Connect with Me &nbsp;
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/osama.mohamoud2006)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osama-mohamoud-485677322)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/what_do_you_need_bro)
 
-</p>
+
 
 
 
