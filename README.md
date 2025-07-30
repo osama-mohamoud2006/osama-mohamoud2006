@@ -49,9 +49,9 @@
 
 <!-- Stats -->
 ## 📊 GitHub Stats
-<p align="center">
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=osama-mohamoud2006&theme=tokyonight)](https://git.io/streak-stats)
-</p>
+
 
 ---
 
