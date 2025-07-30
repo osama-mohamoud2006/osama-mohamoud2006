@@ -50,7 +50,7 @@
 <!-- Stats -->
 ## 📊 GitHub Stats
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=osama-mohamoud2006&theme=dark-minimalist" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-snowy-rho.vercel.app?user=osama-mohamoud2006&theme=tokyonight" alt="GitHub Streak" /></a>
 </p>
 
 ---
