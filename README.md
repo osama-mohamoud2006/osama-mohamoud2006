@@ -23,7 +23,7 @@
 - 🔭 Currently working through a roadmap to build a solid foundation in programming
 
 
-- 😒 I'am currently studying C++ level two course 
+- 😒 I'am currently taking a break
 
 
 ---
