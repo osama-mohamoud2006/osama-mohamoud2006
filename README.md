@@ -49,9 +49,8 @@
 
 <div align="center">
   
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=osama-mohamoud2006&theme=tokyonight" alt="GitHub Streak"/>
-  </a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=osama-mohamoud2006&theme=tokyonight-duo" alt="GitHub Streak" /></a>
+   
 
 </div>
 
