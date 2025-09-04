@@ -21,11 +21,7 @@
 ## 👨‍💻 About Me 
 - 🎓 I’m a student at ERU (Egyptian Russian University) 
 - 🔭 Currently working through a roadmap to build a solid foundation in programming
-
-
 - 😒 I'am currently in Algorithms & Problem Solving Level 4
-
-
 
 ---
 <div align="center">
@@ -54,27 +50,15 @@
 <div align="center">
   
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=osama-mohamoud2006&theme=tokyonight" alt="GitHub Streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=osama-mohamoud2006&theme=tokyonight" alt="GitHub Streak"/>
   </a>
 
 </div>
 
-
-
 ---
-
-
-
-
 
 <!-- Contact -->
 ## 📬 Connect with Me &nbsp;
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/osama.mohamoud2006)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osama-mohamoud-485677322)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/what_do_you_need_bro)
-
-
-
-
-
-
