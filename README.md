@@ -21,7 +21,7 @@
 ## 👨‍💻 About Me 
 - 🎓 I’m a student at ERU (Egyptian Russian University) 
 - 🔭 Currently working through a roadmap to build a solid foundation in programming
-- 😒 I'am currently in OOP (Conceptes).
+- 😒 I'am currently in OOP (Concepts).
 
 ---
 <div align="center">
