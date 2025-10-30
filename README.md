@@ -46,7 +46,7 @@
 
 <!-- Stats -->
 ## 📊 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=osama-mohamoud2006&theme=tokyonight-duo)](https://git.io/streak-stats)
+[<image-card alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=osama-mohamoud2006&theme=tokyonight-duo" ></image-card>](https://git.io/streak-stats)
 
 
 
