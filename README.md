@@ -24,11 +24,8 @@
 - 😒 I'am currently in OOP (Concepts).
 
 ---
-<div align="center">
-  <a href="https://jumpshare.com" target="_blank">
-    <img src="https://jumpshare.com/share/0PqrvJAuLQnxHDb0UGk4" alt="My Roadmap Badge">
-  </a>
-</div>
+[![Roadmap](https://img.shields.io/badge/Roadmap-blue?style=for-the-badge)](https://drive.google.com/file/d/1_bNUtecA7cLqLwKkWNL36nUF1D7txrAy/view?usp=sharing)
+
 
 
 <!-- Languages and Tools -->
