@@ -25,8 +25,8 @@
 
 ---
 <div align="center">
-  <a href="https://postimg.cc/XZW2nGqD" target="_blank">
-    <img src="https://img.shields.io/badge/My_Roadmap-Open-blue?style=for-the-badge&logo=codeforces&logoColor=white" alt="My Roadmap Badge">
+  <a href="https://jumpshare.com" target="_blank">
+    <img src="https://jumpshare.com/share/0PqrvJAuLQnxHDb0UGk4" alt="My Roadmap Badge">
   </a>
 </div>
 
