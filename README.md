@@ -24,7 +24,14 @@
 - 😒 I'am currently in OOP (Concepts).
 
 ---
-[![Roadmap](https://img.shields.io/badge/Roadmap-blue?style=for-the-badge)](https://drive.google.com/file/d/1_bNUtecA7cLqLwKkWNL36nUF1D7txrAy/view?usp=sharing)
+<div align="center">
+  
+  <a href="https://drive.google.com/file/d/1_bNUtecA7cLqLwKkWNL36nUF1D7txrAy/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/My%20Roadmap-blue?style=for-the-badge" />
+  </a>
+
+</div>
+
 
 
 
