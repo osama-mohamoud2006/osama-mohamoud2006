@@ -21,7 +21,7 @@
 ## 👨‍💻 About Me 
 - 🎓 I’m a student at ERU (Egyptian Russian University) 
 - 🔭 Currently working through a roadmap to build a solid foundation in programming
-- 😒 I'am currently in OOP (Projects).
+- 😒 I'am currently studying DS Level 1.
 ---
 <div align="center">
   <a href="https://drive.google.com/file/d/1_bNUtecA7cLqLwKkWNL36nUF1D7txrAy/view?usp=sharing" target="_blank">
@@ -45,7 +45,7 @@
 
 <!-- Stats -->
  ## 📊 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=osama-mohamoud2006%20&theme=transparent&hide_total_contributions=true&hide_current_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=osama-mohamoud2006%20&theme=transparent)](https://git.io/streak-stats)
 
 
 
