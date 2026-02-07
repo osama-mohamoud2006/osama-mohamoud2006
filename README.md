@@ -1,7 +1,7 @@
 <!-- Gif header -->
-<p align="center">
+<!-- <p align="center">
   <img height="200" src="https://github-readme-utils.vercel.app/api/gif/anime" alt="Random Anime GiF">
-</p>
+</p>    -->
 
 <!-- Animated Name -->
 <h1 align="center">
