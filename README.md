@@ -1,7 +1,7 @@
 <!-- Gif header -->
-<!-- <p align="center">
+ <p align="center">
   <img height="200" src="https://github-readme-utils.vercel.app/api/gif/anime" alt="Random Anime GiF">
-</p>    -->
+</p>    
 
 <!-- Animated Name -->
 <h1 align="center">
@@ -21,7 +21,7 @@
 ## 👨‍💻 About Me 
 - 🎓 I’m a student at ERU (Egyptian Russian University) 
 - 🔭 Currently working through a roadmap to build a solid foundation in programming
-- 😒 I'am currently studying DS Level 1.
+- 😒 I'am currently use what i have learned in ds level 1 in projects.
 ---
 <div align="center">
   <a href="https://drive.google.com/file/d/1_bNUtecA7cLqLwKkWNL36nUF1D7txrAy/view?usp=sharing" target="_blank">
